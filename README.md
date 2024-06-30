@@ -3,7 +3,7 @@
 Degen Gaming introduces DegenGameToken (DGT), a revolutionary token designed to transform your gaming experience. By showcasing your skills, you'll earn DGTs, the in-game currency. These tokens unlock a treasure trove of exciting rewards within the Degen Gaming store, fueling your competitive spirit and rewarding your dedication. DGTs go beyond mere in-game purchases. Built on the lightning-fast Avalanche blockchain, DGTs enable seamless and cost-effective player-to-player trading. This opens doors for a dynamic in-game economy, fostering growth, engagement, and a sense of community among players. Degen Gaming, with its innovative DGT system, aims to redefine player loyalty and retention by offering a truly rewarding and enriching gameplay experience.
 
 ## Video Demonstration
-[Video Tutorial]()
+[Video Tutorial](https://www.loom.com/share/80185bfb21f84d5694adff7c62065129?sid=69a27bbf-7c50-4780-a864-b2eb682abab2)
 
 ## Steps to install and run this project
 1. Clone this repository:
